@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clavin Moras</h1>
 <h3 align="center">A passionate frontend developer...</h3>
 <p align="center">
-- 🌱 I’m currently learning **React.js**
 - 📫 You can reach me at **clavimoras@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>

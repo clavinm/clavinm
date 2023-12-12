@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Clavin Moras</h1>
+<h1 align="center">Hi 👋, I'm Clavin </h1>
 <h3 align="center">A passionate frontend developer...</h3>
 <p align="center">
 - 📫 You can reach me at **clavimoras@gmail.com**
